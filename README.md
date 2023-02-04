@@ -13,6 +13,4 @@ Useful links
 
 [Security in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-security)
 
-[Security recommendations for App Service](https://learn.microsoft.com/en-us/azure/app-service/security-recommendations)
-
 [Configure application security features](https://learn.microsoft.com/en-us/training/modules/application-security/)
