@@ -16,3 +16,5 @@ Useful links
 [Configure application security features](https://learn.microsoft.com/en-us/training/modules/application-security/)
 
 [Diagnostic settings in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings?WT.mc_id=Portal-Microsoft_Azure_Monitoring&tabs=portal)
+
+[Azure Monitor partner integrations](https://learn.microsoft.com/en-us/azure/azure-monitor//partners?WT.mc_id=Portal-Microsoft_Azure_Monitoring)
