@@ -20,3 +20,5 @@ Useful links
 [Azure Monitor partner integrations](https://learn.microsoft.com/en-us/azure/azure-monitor//partners?WT.mc_id=Portal-Microsoft_Azure_Monitoring)
 
 [Monitor App Service instances using Health check](https://learn.microsoft.com/en-us/azure/app-service/monitor-instances-health-check?tabs=dotnet)
+
+[Modernize ASP.NET web apps to Azure App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-webapps)
