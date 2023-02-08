@@ -22,3 +22,7 @@ Useful links
 [Monitor App Service instances using Health check](https://learn.microsoft.com/en-us/azure/app-service/monitor-instances-health-check?tabs=dotnet)
 
 [Modernize ASP.NET web apps to Azure App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-webapps)
+
+[How to use managed identities for App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=portal%2Cdotnet)
+
+
