@@ -25,4 +25,6 @@ Useful links
 
 [How to use managed identities for App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=portal%2Cdotnet)
 
+[Add and manage TLS/SSL certificates in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=subdomain%2Cportal)
+
 
