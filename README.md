@@ -27,4 +27,6 @@ Useful links
 
 [Add and manage TLS/SSL certificates in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=subdomain%2Cportal)
 
+[Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/en-us/blog/secure-your-application-traffic-with-application-gateway-mtls/)
+
 
