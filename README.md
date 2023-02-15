@@ -29,4 +29,6 @@ Useful links
 
 [Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/en-us/blog/secure-your-application-traffic-with-application-gateway-mtls/)
 
+[Workspace-based Application Insights resources](https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource)
+
 
